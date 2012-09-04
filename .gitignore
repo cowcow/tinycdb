@@ -1,0 +1,5 @@
+*.o
+/cdb
+/cdb.exe
+/libcdb.a
+
